@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @YadikarYiliya
+- 👀 I’m interested in Software, AI, Testing --> serve humanity through technologies
+- 🌱 I’m currently learning AWS, finetuning, prompt engineering
+- 💞️ I’m looking to collaborate on AI projects to solve problems, enhance life quaility
+- 📫 How to reach me: yiliyayadikar@gmail.com
